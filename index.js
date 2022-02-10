@@ -15,7 +15,7 @@
 
 
  async function welcome(){
-     const heading = chalkAnimation.rainbow(`Welcome ${player} to LetsPlay KBC \n`);
+     const heading = chalkAnimation.rainbow(`Welcome ${player} JAVASCRIPT KBC \n`);
      await sleep();
      heading.stop();
 
