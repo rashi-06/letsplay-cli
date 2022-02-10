@@ -1,3 +1,3 @@
 # letsplay-cli
 
-##This is a CLI game I build using Nodejs.
+### This is a CLI game build using Nodejs.
