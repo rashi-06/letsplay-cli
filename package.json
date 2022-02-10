@@ -1,0 +1,30 @@
+{
+  "name": "letsplay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rashi-06/JAVASCRIPT-KBC"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "game",
+    "cli-game",
+    "quiz"
+  ],
+  "author": "Rashi Sharma",
+  "license": "ISC",
+  "bin": "./index.js",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "chalk-animation": "^1.6.0",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0",
+    "inquirer": "^8.2.0",
+    "nanospinner": "^1.0.0"
+  }
+}
